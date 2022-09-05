@@ -5,6 +5,10 @@ This is the first version of this guide using some core topics to study, read an
 ## Topics
 - Swift Basics
 
+#Testing
+- Unit Testing
+- UI Testing
+
 ## Design Pattern/ Architecture
 - VIPER 
 - MVP
