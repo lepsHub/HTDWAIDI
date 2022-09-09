@@ -17,9 +17,9 @@ This is the first version of this guide using some core topics to study, read an
 - Functional
 - OTHERs (Protocol P., etc)
 
-
 ## Topics
 - Swift Basics
+- Dependency Injection
 
 #Testing
 - Unit Testing
@@ -33,7 +33,6 @@ This is the first version of this guide using some core topics to study, read an
 ## Architecture components
 - ViewController
 - Tabcontroller
-
 
 ## UI Markups
 - Views-
