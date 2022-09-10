@@ -3,15 +3,15 @@ How to deal with an iOS Developer interview
 
 This is the first version of this guide using some core topics to study, read and learn about if your want to feel prepare for a technical interview.
 
-##Language
+## Language
 - Objective-C
 - Swift
 
-##Platform
+## Platform
 - OS
 - IDE (Xcode)
 
-##Paradigms
+## Paradigms
 - OOP
 - Structured
 - Functional
@@ -21,7 +21,7 @@ This is the first version of this guide using some core topics to study, read an
 - Swift Basics
 - Dependency Injection
 
-#Testing
+# Testing
 - Unit Testing
 - UI Testing
 
@@ -63,6 +63,8 @@ This is the first version of this guide using some core topics to study, read an
 - Push Notifications
 
 ## Concurrency
+- DispatchQueue Main and global
+- Sync and Async
 
 ## Non-Functional requirements
 - Performance
