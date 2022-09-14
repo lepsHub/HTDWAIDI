@@ -59,12 +59,19 @@ This is the first version of this guide using some core topics to study, read an
 
 ## Sys Integration
 - WebServices
-- Bluetooth
 - Push Notifications
+- Bluetooth
+
 
 ## Concurrency
 - DispatchQueue Main and global
 - Sync and Async
+- Async Await Operations
+- Operation Queue vs Dispatch Queue
+- Dispatch Groups
+
+##Dependency Injection
+- Objects IDs
 
 ## Non-Functional requirements
 - Performance
